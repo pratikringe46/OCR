@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
+pandas
+numpy
+opencv-python-headless
+Pillow
+pytesseract
+paddlepaddle
+paddleocr
+pdf2image
+ocrmypdf
+python-docx
